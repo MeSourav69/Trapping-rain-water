@@ -19,14 +19,12 @@ public class Trappingwater {
         }
         return trape;
     }
-    
-    
-    
-    
-    
-    public static void main(String[] args) {
-       int numbers[]={7,2,4,0,3,2};
-       System.out.print(Trapewater(numbers));
-    }
-    
 }
+    
+    
+    
+    
+    
+   
+
+
