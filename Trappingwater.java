@@ -1,5 +1,5 @@
 import java.util.*;
-public class Trappingwater {
+public class TrappingWater {
     public static int Trapewater(int numbers[]){
         int n=numbers.length;
         int leftmax[]=new int[n];
@@ -26,5 +26,6 @@ public class Trappingwater {
     
     
    
+
 
 
